@@ -6,3 +6,4 @@ __pycache__/
 learning_platform.db
 .DS_Store
 Lab 5 (CSE 3206 – CO4 Reflection Essay).pdf
+docs/generate_report.py
