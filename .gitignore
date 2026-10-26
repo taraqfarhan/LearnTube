@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+learning_platform.db
+.DS_Store
+Lab 5 (CSE 3206 – CO4 Reflection Essay).pdf
