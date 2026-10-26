@@ -58,7 +58,3 @@ from learning_platform.repository import SQLiteRepository
 
 platform = LearningPlatform(SQLiteRepository("learning_platform.db"))
 ```
-
-## Scope note
-
-The Git/GitHub evidence requested by the assignment is intentionally not included. Branches, pull requests, conflict screenshots, and repository history will be supplied by the student.
